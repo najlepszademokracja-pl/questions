@@ -40,3 +40,10 @@
     - "około 2 dni"
     - "około 24 godziny"
   correct: "około 4 godziny"
+- question: "W 2023 roku wzrost średniej płacy wyniósł 10%, następnie w roku 2024 średnia płaca zaliczyła spadek o 10%. Zakładając, że średnia płaca wynosiła początkowo 5000 zł, ile wynosi średnia płaca pod koniec 2024?"
+  answers:
+    - "4500 zł"
+    - "4950 zł"
+    - "5050 zł"
+    - "5100 zł"
+  correct: "4950 zł"
